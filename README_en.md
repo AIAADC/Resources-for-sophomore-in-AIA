@@ -51,6 +51,35 @@ English version/[中文版](./README.md)
 
 ---
 
+### 📡 **Signal Analysis**
+
+> Waves whisper, spectra hum,
+> Information dances between time and frequency.
+> From Fourier to Laplace, every transform reveals hidden melodies,
+> with key notes and mind maps capturing the elegant rhythm of signals.
+
+### 🤖 **Introduction to Artificial Intelligence**
+
+> Wisdom like light, algorithms like wind,
+> At the intersection of data and rules, the future quietly awakens.
+> From perception to reasoning, from deep learning to reinforcement,
+> core concepts and mind maps chart the galaxy of intelligence.
+
+### 💾 **Data Structures**
+
+> Links form veins, nodes form forests,
+> Data quietly grows in the world of logic.
+> Stacks and queues, trees and graphs—every path is a line of order,
+> key notes and mind maps capture the beauty woven in information.
+
+### 📊 **Operations Research**
+
+> Equations as beacons, optimization as sails,
+> Decisions navigate the ocean of mathematics.
+> From linear programming to dynamic planning, every model is a sculpture of wisdom,
+> key notes and mind maps trace the light and path of efficiency.
+---
+
 ## 🌱 How to Use
 
 - All materials are shared strictly for academic and educational purposes—**not for commercial use**.  
