@@ -20,6 +20,40 @@ English Version | [中文版](./README.md)
 > Sophomore courses become more systematic, and materials can easily scatter across group files, chat histories, and personal drives.  
 > This repository gathers lecture notes, past papers, lab materials, review outlines, and course notes into one easier entry point.
 
+| Course | Main Materials | Entry |
+| --- | --- | --- |
+| Complex Variables and Integral Transforms | Standalone course repository entry | [Open](./复变函数与积分变换) |
+| University Physics | Past papers, solutions, review materials, course repository entry | [Open](./大学物理) |
+| Digital Circuits | Notes, past papers, review materials, course repository entry | [Open](./数字电路) |
+| Analog Circuits | Standalone course repository entry | [Open](./模拟电路) |
+| Electronic Circuit Laboratory I | Lab review materials | [Open](./电子电路实验(上)) |
+| Discrete Mathematics | Standalone course repository entry | [Open](./离散数学) |
+| Principles of Marxism | Outlines, question banks, past papers, chapter exercises | [Open](./马原) |
+| Signal Analysis | Past papers | [Open](./信号分析) |
+| Introduction to Artificial Intelligence | Course materials and past paper | [Open](./人工智能导论) |
+| Data Structures | Past papers | [Open](./数据结构) |
+| Operations Research | Past papers | [Open](./运筹学) |
+| Xi Jinping Thought Review Materials | Outlines, question banks, page indexes | [Open](./习概复习资料) |
+
+---
+
+## 🔗 Standalone Course Repository Map
+
+> The year-level hub is best for finding resources quickly; standalone repositories are better for complete and long-term course collections.
+
+| Course | Repository | Best For |
+| --- | --- | --- |
+| Complex Variables and Integral Transforms | [AIAADC-Complex-Functions-and-Integral-Transforms](https://github.com/AIAADC/AIAADC-Complex-Functions-and-Integral-Transforms) | Slides, review materials, past papers |
+| University Physics | [Physics](https://github.com/AIAADC/Physics) | Physics slides and review materials |
+| Digital Circuits | [Digital-circuit](https://github.com/AIAADC/Digital-circuit) | Digital-circuit slides, notes, and past-paper review |
+| Analog Circuits | [Analog-Electronics-Technology](https://github.com/AIAADC/Analog-Electronics-Technology) | Analog-circuit slides, past papers, review resources |
+| Discrete Mathematics | [Discrete-Mathematics](https://github.com/AIAADC/Discrete-Mathematics) | Discrete-math slides and review resources |
+| Introduction to Artificial Intelligence | [Introduction-to-Artificial-Intelligence](https://github.com/AIAADC/Introduction-to-Artificial-Intelligence) | AI course slides |
+| Data Structures | [Data-Structure](https://github.com/AIAADC/Data-Structure) | Data-structure slides and algorithm-analysis materials |
+| Introduction to Signals and Systems | [Introduction-to-Signals-and-Systems](https://github.com/AIAADC/Introduction-to-Signals-and-Systems) | Exercise solutions and course materials |
+
+---
+
 ### 🌀 [Complex Variables and Integral Transforms](./复变函数与积分变换)
 
 > Wandering the complex plane, glimpsing cosmic symmetries through residues.  

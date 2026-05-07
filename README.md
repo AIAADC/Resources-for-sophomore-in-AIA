@@ -37,6 +37,23 @@
 
 ---
 
+## 🔗 独立课程仓地图
+
+> 年级总仓适合快速定位资料；独立课程仓适合查看更完整、更长期维护的课程内容。
+
+| 课程 | 独立课程仓 | 适合查找 |
+| --- | --- | --- |
+| 复变函数与积分变换 | [AIAADC-Complex-Functions-and-Integral-Transforms](https://github.com/AIAADC/AIAADC-Complex-Functions-and-Integral-Transforms) | 讲义、课件、复习资料、真题 |
+| 大学物理 | [Physics](https://github.com/AIAADC/Physics) | 大学物理课件、复习资料 |
+| 数字电路 | [Digital-circuit](https://github.com/AIAADC/Digital-circuit) | 数电课件、笔记、真题复习 |
+| 模拟电路 | [Analog-Electronics-Technology](https://github.com/AIAADC/Analog-Electronics-Technology) | 模电课件、真题、复习资料 |
+| 离散数学 | [Discrete-Mathematics](https://github.com/AIAADC/Discrete-Mathematics) | 离散数学课件、复习资料 |
+| 人工智能导论 | [Introduction-to-Artificial-Intelligence](https://github.com/AIAADC/Introduction-to-Artificial-Intelligence) | AI 导论课件 |
+| 数据结构 | [Data-Structure](https://github.com/AIAADC/Data-Structure) | 数据结构课件、算法分析资料 |
+| 信号与系统引论 | [Introduction-to-Signals-and-Systems](https://github.com/AIAADC/Introduction-to-Signals-and-Systems) | 习题解析、课程资料 |
+
+---
+
 ### 🌀 [复变函数与积分变换](./复变函数与积分变换)
 
 > 在复平面上漫步，于留数间窥见宇宙的对称。  
