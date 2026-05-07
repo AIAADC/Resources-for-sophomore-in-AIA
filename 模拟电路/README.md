@@ -1,3 +1,17 @@
-# 模拟电路资料一键直达
+# 🌊 模拟电路
 
-点击[这里](https://github.com/AIAADC/Analog-Electronics-Technology)，打开模电相关复习资料
+> 电流如溪，电压似山，  
+> 放大器里藏着声音的回响。  
+> 这门课需要把电路图、物理直觉和计算过程放在一起看。
+
+## 资料入口
+
+本目录作为课程导航页使用，完整资料请前往独立课程仓库：
+
+- [Analog-Electronics-Technology](https://github.com/AIAADC/Analog-Electronics-Technology)
+
+## 使用建议
+
+1. 先复习二极管、三极管、场效应管和运放的基本模型。
+2. 做题时不要只套公式，要先判断电路工作状态。
+3. 后续如果补充实验、题解或复习资料，可放在本目录作为快捷入口。
